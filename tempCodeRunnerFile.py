@@ -190,7 +190,7 @@ if __name__ == "__main__":
     while True:
         try:
           
-            frequency = float(input("\nEnter the signal frequency (Hz, e.g., 50): "))
+            frequency = float(input("\nEnter the signal frequency (Hz, e.g., 50): ")) #1
             noise_level = float(input("Enter the noise level (e.g., 0.1 for low noise, 1.5 for high noise): "))
 
           
