@@ -1,0 +1,19 @@
+2024-12-16 22:39:19,759 - INFO - Initial communication channel set to: 3
+2024-12-16 22:39:19,888 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-12-16 22:39:19,889 - INFO - Encryption Cipher Initialized
+2024-12-16 22:39:36,960 - INFO - Max amplitude detected: 244.48212377446333
+2024-12-16 22:39:36,960 - WARNING - Anomaly Detected: Potential Jamming Signal!
+2024-12-16 22:39:36,960 - INFO - Switched to Channel 4 due to interference.
+2024-12-16 22:39:36,966 - WARNING - Jamming Pattern Detected by Machine Learning Model
+2024-12-16 22:39:36,966 - INFO - Switched to Channel 2 due to interference.
+2024-12-16 22:39:36,966 - INFO - Frequency hopping: Switched to Channel 5
+2024-12-16 22:39:36,967 - INFO - Switched to Channel 1 due to interference.
+2024-12-16 22:39:36,968 - INFO - Recovery initiated: Switched to a new channel.
+2024-12-16 22:39:36,988 - INFO - Message encrypted for secure transmission
+2024-12-16 22:39:36,989 - INFO - Message decrypted successfully
+2024-12-16 22:42:47,025 - INFO - Initial communication channel set to: 5
+2024-12-16 22:42:47,145 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-12-16 22:42:47,145 - INFO - Encryption Cipher Initialized
+2024-12-16 22:43:21,081 - INFO - Initial communication channel set to: 3
+2024-12-16 22:43:21,203 - INFO - Machine Learning Jamming Detector Trained Successfully
+2024-12-16 22:43:21,204 - INFO - Encryption Cipher Initialized

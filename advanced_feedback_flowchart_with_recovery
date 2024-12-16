@@ -1,0 +1,18 @@
+// Advanced Jamming Detection Feedback
+digraph {
+	A [label="Signal Generated"]
+	B [label="Anomaly Detected
+(Max Amplitude: 287.87)"]
+	C [label="Jamming Detected by ML Model"]
+	D [label="Switch Channel"]
+	E [label="Message Encrypted"]
+	F [label="Recovery Initiated
+(Back to Secure Communication)"]
+	G [label="Communication Secured"]
+	A -> B [label="Signal Input"]
+	B -> C [label="Anomaly Threshold Check"]
+	C -> D [label="If Jamming Detected"]
+	D -> E [label="Secure Channel Switch"]
+	E -> F [label="Recovery Strategy Initiated"]
+	F -> G [label="Encryption Success"]
+}
